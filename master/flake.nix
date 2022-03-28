@@ -11,7 +11,6 @@
   inputs.src-exodus-master.ref   = "refs/heads/master";
   inputs.src-exodus-master.owner = "shinriyo";
   inputs.src-exodus-master.repo  = "nim_exodus";
-  inputs.src-exodus-master.dir   = "";
   inputs.src-exodus-master.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
